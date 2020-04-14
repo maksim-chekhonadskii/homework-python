@@ -1,0 +1,2 @@
+physics 30 10 20
+mathematics 30 0 0

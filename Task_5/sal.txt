@@ -1,0 +1,10 @@
+Ivanov 12000
+Petrov 21000
+Sidorov 14000
+Kuznetcov 29000
+Vancev 39000
+Fedorov 40000
+Lukashenko 10000
+Smirnov 5000
+Arkhipov 22000
+Vasin 21000
